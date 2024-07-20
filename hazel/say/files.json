@@ -1,0 +1,7 @@
+{
+  "files": [
+    "say"
+  ],
+  "description":"Simple echo alternative that doesn't support variables - as a POC for BakaManager",
+  "developer":"hazel"
+}
